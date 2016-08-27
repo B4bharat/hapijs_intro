@@ -1,0 +1,24 @@
+{
+  "name": "hapijs_intro",
+  "version": "1.0.0",
+  "description": "A Hapijs introduction from scotch.io",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B4bharat/hapijs_intro.git"
+  },
+  "keywords": [
+    "hapijs",
+    "nodejs",
+    "REST"
+  ],
+  "author": "Bharat Poptwani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/B4bharat/hapijs_intro/issues"
+  },
+  "homepage": "https://github.com/B4bharat/hapijs_intro#readme"
+}
