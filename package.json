@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/B4bharat/hapijs_intro/issues"
   },
-  "homepage": "https://github.com/B4bharat/hapijs_intro#readme"
+  "homepage": "https://github.com/B4bharat/hapijs_intro#readme",
+  "dependencies": {
+    "hapi": "^15.0.1"
+  }
 }
